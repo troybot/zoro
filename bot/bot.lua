@@ -2,8 +2,8 @@
 -- BY @blcon
 -- BY @verxbot
 
-sudouser = '@blcon'  -- خلي معرفك هنا
-SUDO = 352568466    -- حط ايديك هنا <===
+sudouser = '@TH3CZAR'  -- خلي معرفك هنا
+SUDO = 321314064    -- حط ايديك هنا <===
 bot_name = "فير"
 
 tdcli = dofile('./tg/tdcli.lua')
@@ -97,7 +97,7 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-	info_text = "💢| Welcome My Dear\n💢| verbot V2 \n💢| For Information  @verxbot \n💢| Dev @blcon\n\n",
+	info_text = "💢| Welcome My Dear\n💢| verbot V4 \n💢| For Information  @CHTH3CZAR \n💢| Dev @TH3CZAR\n\n",
 
   }
 	serialize_to_file(config, './data/config.lua')
