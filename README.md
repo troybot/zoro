@@ -3,6 +3,6 @@
 
 
 
-`git clone https://github.com/alsaray/vercli.git && cd vercli && chmod +x launch.sh &&./launch.sh install`
+`git clone https://github.com/THE3CZAR2/vercli.git && cd vercli && chmod +x launch.sh &&./launch.sh install`
 
 
