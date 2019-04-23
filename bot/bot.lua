@@ -92,11 +92,11 @@ function create_config( )
     "plugins",
     "tools",
 	"replay",
-	"zhrf",
+	"games",
 	"ve",
 
 	},
-    sudo_users = {{SUDO,'"'..sudouser..'"'}},
+    sudo_users = {{SUDO,'776008296"'..sudouser..'"'}},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
